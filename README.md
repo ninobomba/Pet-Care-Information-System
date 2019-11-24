@@ -1,4 +1,5 @@
-# Pet Care Information System
- Information System for the Support of Animal Care Organizations
+# Autonomous University of Queretaro | Faculty of Informatics
 
-# Universidad Autonoma de Queretaro
+# Pet Care Information System
+
+ Information System for the Support of Animal Care Organizations
